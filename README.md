@@ -12,3 +12,11 @@ Fractals using processing lib in java
 
 ## Menus
 ![Menu](Screenshots/Menus.png)
+## Cantor Set
+![CantorSet](Screenshots/CantorSet.png)
+## Dragon Curve
+![MenDragonCurveu](Screenshots/DragonCurve.png)
+## Fractal Plant
+![FractalPlant](Screenshots/FractalPlant.png)
+## Fractal Tree
+![FractalTree](Screenshots/FractalTree.png)
