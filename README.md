@@ -11,4 +11,4 @@ Fractals using processing lib in java
 # Screenshots
 
 ## Menus
-![Menu](Screenshots/menus.png)
+![Menu](Screenshots/Menus.png)
