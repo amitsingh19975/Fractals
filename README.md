@@ -7,3 +7,8 @@ Fractals using processing lib in java
 2. Download Java jdk 8 [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 3. Add processing core.jar file in your favourite editor
 4. Entry point of this project is `Main.java`
+
+# Screenshots
+
+## Menus
+![Menu](Screenshots/menus.png)
